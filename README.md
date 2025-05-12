@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Giovanni
 
-<!--
-**gvocale/gvocale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Design Engineer who prototypes and builds real products.
 
-Here are some ideas to get you started:
+- ⚙️ I design directly in code—working from real data, not idealized mockups—to prototype fast, iterate, and build production-ready UIs that actually hold up.
+- 🛠 I design directly in code using React, Next.js, TypeScript, and CSS
+- 🚀 I prefer web apps, internal tools, and power-user interfaces over marketing sites, though I can work from an existing brand thanks to a strong background in advertising.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [giovanni.is](https://giovanni.is/) – My personal portfolio, always evolving
+
+---
+
+Thanks for stopping by!
